@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DoReMiSubscriptionManager:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DoReMiSubscriptionManager_jar</output-path>
+    <root id="archive" name="DoReMiSubscriptionManager.jar">
+      <element id="module-output" name="DoReMiSubscriptionManager" />
+    </root>
+  </artifact>
+</component>
